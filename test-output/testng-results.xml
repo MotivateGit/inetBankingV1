@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Failed suite [Suite]]" duration-ms="27050" started-at="2021-04-19T17:51:54 IST" finished-at="2021-04-19T17:52:21 IST">
+    <groups>
+    </groups>
+    <test name="Test(failed)(failed)" duration-ms="27050" started-at="2021-04-19T17:51:54 IST" finished-at="2021-04-19T17:52:21 IST">
+      <class name="com.inetBanking.testCases.TC_LoginDDT_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@543788f3]" name="setup" is-config="true" duration-ms="12141" started-at="2021-04-19T17:51:54 IST" finished-at="2021-04-19T17:52:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@543788f3]" name="loginDDT" duration-ms="6272" started-at="2021-04-19T17:52:08 IST" data-provider="LoginData" finished-at="2021-04-19T17:52:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr320013]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nazErYj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@543788f3]" name="loginDDT" duration-ms="6432" started-at="2021-04-19T17:52:14 IST" data-provider="LoginData" finished-at="2021-04-19T17:52:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr320013]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nazErYj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.TC_LoginDDT_002@543788f3]" name="tearDown" is-config="true" duration-ms="640" started-at="2021-04-19T17:52:20 IST" finished-at="2021-04-19T17:52:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBanking.testCases.TC_LoginDDT_002 -->
+    </test> <!-- Test(failed)(failed) -->
+  </suite> <!-- Failed suite [Failed suite [Suite]] -->
+</testng-results>

@@ -1,0 +1,370 @@
+2021-04-13 20:19:39,527 - ebanking -INFO - URL is opened
+2021-04-13 20:19:39,698 - ebanking -INFO - UserName is Entered
+2021-04-13 20:19:44,449 - ebanking -INFO - Login test Passed
+2021-04-13 20:20:34,581 - ebanking -INFO - URL is opened
+2021-04-13 20:20:34,738 - ebanking -INFO - UserName is Entered
+2021-04-13 20:20:40,647 - ebanking -INFO - Login test Passed
+2021-04-13 20:21:26,327 - ebanking -INFO - URL is opened
+2021-04-13 20:21:26,505 - ebanking -INFO - UserName is Entered
+2021-04-13 20:21:32,184 - ebanking -INFO - Login test Passed
+2021-04-13 20:25:37,591 - ebanking -INFO - URL is opened
+2021-04-13 20:25:37,746 - ebanking -INFO - UserName is Entered
+2021-04-13 20:25:41,968 - ebanking -INFO - Login test Passed
+2021-04-13 21:41:04,379 - ebanking -INFO - URL is opened
+2021-04-13 21:41:04,541 - ebanking -INFO - UserName is Entered
+2021-04-13 21:41:06,017 - ebanking -INFO - Login test Passed
+2021-04-13 21:42:12,855 - ebanking -INFO - URL is opened
+2021-04-13 21:42:13,011 - ebanking -INFO - UserName is Entered
+2021-04-13 21:42:18,604 - ebanking -INFO - Login test Failed
+2021-04-13 22:11:17,956 - ebanking -INFO - URL is opened
+2021-04-13 22:11:18,068 - ebanking -INFO - UserName is Entered
+2021-04-13 22:11:23,282 - ebanking -INFO - Login test Passed
+2021-04-13 22:26:09,146 - ebanking -INFO - URL is opened
+2021-04-13 22:26:09,249 - ebanking -INFO - UserName is Entered
+2021-04-13 22:26:14,852 - ebanking -INFO - Login test Passed
+2021-04-13 22:28:33,901 - ebanking -INFO - URL is opened
+2021-04-13 22:28:33,967 - ebanking -INFO - UserName is Entered
+2021-04-13 22:28:35,980 - ebanking -INFO - Login test Passed
+2021-04-13 22:50:14,391 - ebanking -INFO - URL is opened
+2021-04-13 22:52:40,370 - ebanking -INFO - URL is opened
+2021-04-13 22:58:45,238 - ebanking -INFO - URL is opened
+2021-04-13 22:59:20,419 - ebanking -INFO - URL is opened
+2021-04-13 23:00:36,937 - ebanking -INFO - URL is opened
+2021-04-13 23:00:37,045 - ebanking -INFO - UserName is Entered
+2021-04-13 23:00:37,114 - ebanking -INFO - Password is Entered
+2021-04-13 23:00:43,954 - ebanking -INFO - Clicked on Submit button
+2021-04-13 23:00:43,962 - ebanking -INFO - Login test Passed
+2021-04-13 23:01:05,669 - ebanking -INFO - URL is opened
+2021-04-13 23:01:05,728 - ebanking -INFO - UserName is Entered
+2021-04-13 23:01:05,759 - ebanking -INFO - Password is Entered
+2021-04-13 23:01:07,450 - ebanking -INFO - Clicked on Submit button
+2021-04-13 23:01:07,454 - ebanking -INFO - Login test Passed
+2021-04-13 23:01:29,656 - ebanking -INFO - URL is opened
+2021-04-13 23:21:50,909 - ebanking -INFO - URL is opened
+2021-04-13 23:22:20,125 - ebanking -INFO - URL is opened
+2021-04-13 23:27:44,629 - ebanking -INFO - URL is opened
+2021-04-13 23:28:12,302 - ebanking -INFO - URL is opened
+2021-04-14 09:20:09,880 - ebanking -INFO - URL is opened
+2021-04-14 09:21:30,648 - ebanking -INFO - URL is opened
+2021-04-14 09:21:30,715 - ebanking -INFO - UserName is Entered
+2021-04-14 09:21:30,751 - ebanking -INFO - Password is Entered
+2021-04-14 09:21:31,858 - ebanking -INFO - Clicked on Submit button
+2021-04-14 09:21:31,862 - ebanking -INFO - Login test Passed
+2021-04-14 09:49:32,378 - ebanking -INFO - URL is opened
+2021-04-14 09:49:32,504 - ebanking -INFO - UserName is Entered
+2021-04-14 09:49:32,560 - ebanking -INFO - Password is Entered
+2021-04-14 09:49:36,577 - ebanking -INFO - Clicked on Submit button
+2021-04-14 09:49:36,587 - ebanking -INFO - Login test Passed
+2021-04-14 10:40:44,929 - ebanking -INFO - URL is opened
+2021-04-14 10:40:45,023 - ebanking -INFO - UserName is Entered
+2021-04-14 10:40:45,090 - ebanking -INFO - Password is Entered
+2021-04-14 10:40:46,169 - ebanking -INFO - Clicked on Submit button
+2021-04-14 10:40:46,176 - ebanking -INFO - Login test Passed
+2021-04-14 10:41:42,675 - ebanking -INFO - URL is opened
+2021-04-14 10:41:42,774 - ebanking -INFO - UserName is Entered
+2021-04-14 10:41:42,832 - ebanking -INFO - Password is Entered
+2021-04-14 10:41:48,692 - ebanking -INFO - Clicked on Submit button
+2021-04-14 10:41:48,698 - ebanking -INFO - Login test Passed
+2021-04-14 14:50:18,453 - ebanking -INFO - URL is opened
+2021-04-14 14:50:18,550 - ebanking -INFO - UserName is Entered
+2021-04-14 14:50:18,617 - ebanking -INFO - Password is Entered
+2021-04-14 14:50:24,410 - ebanking -INFO - Clicked on Submit button
+2021-04-14 14:50:24,420 - ebanking -INFO - Login test Passed
+2021-04-14 14:54:43,463 - ebanking -INFO - URL is opened
+2021-04-14 14:54:43,574 - ebanking -INFO - UserName is Entered
+2021-04-14 14:54:43,635 - ebanking -INFO - Password is Entered
+2021-04-14 14:54:44,707 - ebanking -INFO - Clicked on Submit button
+2021-04-14 14:54:44,713 - ebanking -INFO - Login test Passed
+2021-04-14 14:55:23,451 - ebanking -INFO - URL is opened
+2021-04-14 14:55:23,558 - ebanking -INFO - UserName is Entered
+2021-04-14 14:55:23,617 - ebanking -INFO - Password is Entered
+2021-04-14 14:55:24,762 - ebanking -INFO - Clicked on Submit button
+2021-04-14 14:55:25,120 - ebanking -INFO - Login test Failed
+2021-04-14 14:56:10,823 - ebanking -INFO - URL is opened
+2021-04-14 14:56:30,111 - ebanking -INFO - URL is opened
+2021-04-14 14:56:42,481 - ebanking -INFO - URL is opened
+2021-04-14 14:56:42,590 - ebanking -INFO - UserName is Entered
+2021-04-14 14:56:42,654 - ebanking -INFO - Password is Entered
+2021-04-14 14:56:43,778 - ebanking -INFO - Clicked on Submit button
+2021-04-14 14:56:44,122 - ebanking -INFO - Login test Failed
+2021-04-14 20:38:53,306 - ebanking -INFO - Username entered
+2021-04-14 20:38:53,369 - ebanking -INFO - Password entered
+2021-04-14 20:38:55,757 - ebanking -INFO - Submit button clicked
+2021-04-14 20:38:56,754 - ebanking -INFO - Logout button clicked
+2021-04-14 20:38:56,765 - ebanking -INFO - Logout alert accepted
+2021-04-14 20:38:58,147 - ebanking -INFO - Username entered
+2021-04-14 20:38:58,208 - ebanking -INFO - Password entered
+2021-04-14 20:38:59,591 - ebanking -INFO - Submit button clicked
+2021-04-14 20:38:59,597 - ebanking -INFO - Alert accepted
+2021-04-14 20:39:08,307 - ebanking -INFO - Username entered
+2021-04-14 20:39:08,359 - ebanking -INFO - Password entered
+2021-04-14 20:39:09,582 - ebanking -INFO - Submit button clicked
+2021-04-14 20:39:11,433 - ebanking -INFO - Logout button clicked
+2021-04-14 20:39:11,449 - ebanking -INFO - Logout alert accepted
+2021-04-14 20:39:14,384 - ebanking -INFO - Username entered
+2021-04-14 20:39:14,461 - ebanking -INFO - Password entered
+2021-04-14 20:39:14,879 - ebanking -INFO - Submit button clicked
+2021-04-14 20:39:14,900 - ebanking -INFO - Alert accepted
+2021-04-14 20:39:17,494 - ebanking -INFO - Username entered
+2021-04-14 20:39:17,556 - ebanking -INFO - Password entered
+2021-04-14 20:39:18,151 - ebanking -INFO - Submit button clicked
+2021-04-14 20:39:18,161 - ebanking -INFO - Alert accepted
+2021-04-14 20:44:16,688 - ebanking -INFO - Username entered
+2021-04-14 20:44:16,752 - ebanking -INFO - Password entered
+2021-04-14 20:44:18,828 - ebanking -INFO - Submit button clicked
+2021-04-14 20:44:19,795 - ebanking -INFO - Logout button clicked
+2021-04-14 20:44:19,799 - ebanking -INFO - Logout alert accepted
+2021-04-14 20:44:21,791 - ebanking -INFO - Username entered
+2021-04-14 20:44:21,858 - ebanking -INFO - Password entered
+2021-04-14 20:44:22,364 - ebanking -INFO - Submit button clicked
+2021-04-14 20:44:22,379 - ebanking -INFO - Alert accepted
+2021-04-14 20:44:24,019 - ebanking -INFO - Username entered
+2021-04-14 20:44:24,072 - ebanking -INFO - Password entered
+2021-04-14 20:44:27,486 - ebanking -INFO - Submit button clicked
+2021-04-14 20:44:29,412 - ebanking -INFO - Logout button clicked
+2021-04-14 20:44:29,434 - ebanking -INFO - Logout alert accepted
+2021-04-14 20:44:30,646 - ebanking -INFO - Username entered
+2021-04-14 20:44:30,707 - ebanking -INFO - Password entered
+2021-04-14 20:44:31,326 - ebanking -INFO - Submit button clicked
+2021-04-14 20:44:31,342 - ebanking -INFO - Alert accepted
+2021-04-14 20:44:33,623 - ebanking -INFO - Username entered
+2021-04-14 20:44:33,675 - ebanking -INFO - Password entered
+2021-04-14 20:44:34,199 - ebanking -INFO - Submit button clicked
+2021-04-14 20:44:34,207 - ebanking -INFO - Alert accepted
+2021-04-19 10:58:42,720 - ebanking -INFO - Username entered
+2021-04-19 10:58:42,801 - ebanking -INFO - Password entered
+2021-04-19 10:58:47,992 - ebanking -INFO - Submit button clicked
+2021-04-19 10:58:48,736 - ebanking -INFO - Logout button clicked
+2021-04-19 10:58:48,752 - ebanking -INFO - Logout alert accepted
+2021-04-19 10:58:50,538 - ebanking -INFO - Username entered
+2021-04-19 10:58:50,593 - ebanking -INFO - Password entered
+2021-04-19 10:58:50,996 - ebanking -INFO - Submit button clicked
+2021-04-19 10:58:51,018 - ebanking -INFO - Alert accepted
+2021-04-19 10:58:52,059 - ebanking -INFO - Username entered
+2021-04-19 10:58:52,110 - ebanking -INFO - Password entered
+2021-04-19 10:58:53,187 - ebanking -INFO - Submit button clicked
+2021-04-19 10:58:54,191 - ebanking -INFO - Logout button clicked
+2021-04-19 10:58:54,197 - ebanking -INFO - Logout alert accepted
+2021-04-19 10:58:55,271 - ebanking -INFO - Username entered
+2021-04-19 10:58:55,332 - ebanking -INFO - Password entered
+2021-04-19 10:58:55,751 - ebanking -INFO - Submit button clicked
+2021-04-19 10:58:55,769 - ebanking -INFO - Alert accepted
+2021-04-19 10:58:56,797 - ebanking -INFO - Username entered
+2021-04-19 10:58:56,857 - ebanking -INFO - Password entered
+2021-04-19 10:58:57,325 - ebanking -INFO - Submit button clicked
+2021-04-19 10:58:57,336 - ebanking -INFO - Alert accepted
+2021-04-19 11:00:23,893 - ebanking -INFO - Username entered
+2021-04-19 11:00:23,972 - ebanking -INFO - Password entered
+2021-04-19 11:00:29,442 - ebanking -INFO - Submit button clicked
+2021-04-19 11:00:30,448 - ebanking -INFO - Logout button clicked
+2021-04-19 11:00:30,454 - ebanking -INFO - Logout alert accepted
+2021-04-19 11:00:31,542 - ebanking -INFO - Username entered
+2021-04-19 11:00:31,605 - ebanking -INFO - Password entered
+2021-04-19 11:00:32,751 - ebanking -INFO - Submit button clicked
+2021-04-19 11:00:34,523 - ebanking -INFO - Logout button clicked
+2021-04-19 11:00:34,536 - ebanking -INFO - Logout alert accepted
+2021-04-19 11:00:37,039 - ebanking -INFO - Username entered
+2021-04-19 11:00:37,095 - ebanking -INFO - Password entered
+2021-04-19 11:00:38,954 - ebanking -INFO - Submit button clicked
+2021-04-19 11:00:40,578 - ebanking -INFO - Logout button clicked
+2021-04-19 11:00:40,585 - ebanking -INFO - Logout alert accepted
+2021-04-19 11:00:42,176 - ebanking -INFO - Username entered
+2021-04-19 11:00:42,235 - ebanking -INFO - Password entered
+2021-04-19 11:00:43,136 - ebanking -INFO - Submit button clicked
+2021-04-19 11:00:45,016 - ebanking -INFO - Logout button clicked
+2021-04-19 11:00:45,029 - ebanking -INFO - Logout alert accepted
+2021-04-19 11:00:47,104 - ebanking -INFO - Username entered
+2021-04-19 11:00:47,161 - ebanking -INFO - Password entered
+2021-04-19 11:00:48,930 - ebanking -INFO - Submit button clicked
+2021-04-19 11:00:49,817 - ebanking -INFO - Logout button clicked
+2021-04-19 11:00:49,836 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:02:51,994 - ebanking -INFO - UserName is Provided
+2021-04-19 17:02:52,093 - ebanking -INFO - Password is Provided
+2021-04-19 17:10:37,929 - ebanking -INFO - UserName is Provided
+2021-04-19 17:10:38,028 - ebanking -INFO - Password is Provided
+2021-04-19 17:15:24,012 - ebanking -INFO - UserName is Provided
+2021-04-19 17:15:24,122 - ebanking -INFO - Password is Provided
+2021-04-19 17:15:36,000 - ebanking -INFO - Providing customer details
+2021-04-19 17:15:47,553 - ebanking -INFO - Test case is Passed
+2021-04-19 17:16:05,973 - ebanking -INFO - UserName is Provided
+2021-04-19 17:16:06,067 - ebanking -INFO - Password is Provided
+2021-04-19 17:16:15,356 - ebanking -INFO - Providing customer details
+2021-04-19 17:16:26,777 - ebanking -INFO - Test case is Passed
+2021-04-19 17:18:08,982 - ebanking -INFO - UserName is Provided
+2021-04-19 17:18:09,098 - ebanking -INFO - Password is Provided
+2021-04-19 17:18:14,354 - ebanking -INFO - Providing customer details
+2021-04-19 17:18:25,883 - ebanking -INFO - Test case is Passed
+2021-04-19 17:38:20,401 - ebanking -INFO - URL is opened
+2021-04-19 17:38:20,573 - ebanking -INFO - UserName is Entered
+2021-04-19 17:38:20,672 - ebanking -INFO - Password is Entered
+2021-04-19 17:38:24,934 - ebanking -INFO - Clicked on Submit button
+2021-04-19 17:38:25,394 - ebanking -INFO - Login test Failed
+2021-04-19 17:38:39,338 - ebanking -INFO - Username entered
+2021-04-19 17:38:39,412 - ebanking -INFO - Password entered
+2021-04-19 17:38:40,861 - ebanking -INFO - Submit button clicked
+2021-04-19 17:38:43,830 - ebanking -INFO - Logout button clicked
+2021-04-19 17:38:43,846 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:38:53,483 - ebanking -INFO - Username entered
+2021-04-19 17:38:53,597 - ebanking -INFO - Password entered
+2021-04-19 17:38:55,666 - ebanking -INFO - Submit button clicked
+2021-04-19 17:38:56,746 - ebanking -INFO - Logout button clicked
+2021-04-19 17:38:56,760 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:38:58,269 - ebanking -INFO - Username entered
+2021-04-19 17:38:58,355 - ebanking -INFO - Password entered
+2021-04-19 17:39:01,336 - ebanking -INFO - Submit button clicked
+2021-04-19 17:39:03,802 - ebanking -INFO - Logout button clicked
+2021-04-19 17:39:03,817 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:39:06,449 - ebanking -INFO - Username entered
+2021-04-19 17:39:06,535 - ebanking -INFO - Password entered
+2021-04-19 17:39:09,641 - ebanking -INFO - Submit button clicked
+2021-04-19 17:39:11,484 - ebanking -INFO - Logout button clicked
+2021-04-19 17:39:11,507 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:39:12,807 - ebanking -INFO - Username entered
+2021-04-19 17:39:12,886 - ebanking -INFO - Password entered
+2021-04-19 17:39:14,614 - ebanking -INFO - Submit button clicked
+2021-04-19 17:39:15,991 - ebanking -INFO - Logout button clicked
+2021-04-19 17:39:16,002 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:39:26,090 - ebanking -INFO - UserName is Provided
+2021-04-19 17:39:26,189 - ebanking -INFO - Password is Provided
+2021-04-19 17:39:35,064 - ebanking -INFO - Providing customer details
+2021-04-19 17:39:46,881 - ebanking -INFO - Test case is Passed
+2021-04-19 17:45:25,955 - ebanking -INFO - URL is opened
+2021-04-19 17:45:26,145 - ebanking -INFO - UserName is Entered
+2021-04-19 17:45:26,247 - ebanking -INFO - Password is Entered
+2021-04-19 17:45:29,960 - ebanking -INFO - Clicked on Submit button
+2021-04-19 17:45:30,383 - ebanking -INFO - Login test Failed
+2021-04-19 17:45:37,843 - ebanking -INFO - Username entered
+2021-04-19 17:45:37,918 - ebanking -INFO - Password entered
+2021-04-19 17:45:42,260 - ebanking -INFO - Submit button clicked
+2021-04-19 17:45:43,531 - ebanking -INFO - Logout button clicked
+2021-04-19 17:45:43,543 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:45:45,338 - ebanking -INFO - Username entered
+2021-04-19 17:45:45,412 - ebanking -INFO - Password entered
+2021-04-19 17:45:45,891 - ebanking -INFO - Submit button clicked
+2021-04-19 17:45:45,904 - ebanking -INFO - Alert accepted
+2021-04-19 17:45:48,327 - ebanking -INFO - Username entered
+2021-04-19 17:45:48,400 - ebanking -INFO - Password entered
+2021-04-19 17:45:50,481 - ebanking -INFO - Submit button clicked
+2021-04-19 17:45:52,019 - ebanking -INFO - Logout button clicked
+2021-04-19 17:45:52,037 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:45:54,683 - ebanking -INFO - Username entered
+2021-04-19 17:45:54,770 - ebanking -INFO - Password entered
+2021-04-19 17:45:55,208 - ebanking -INFO - Submit button clicked
+2021-04-19 17:45:55,229 - ebanking -INFO - Alert accepted
+2021-04-19 17:45:59,305 - ebanking -INFO - Username entered
+2021-04-19 17:45:59,382 - ebanking -INFO - Password entered
+2021-04-19 17:46:01,438 - ebanking -INFO - Submit button clicked
+2021-04-19 17:46:03,134 - ebanking -INFO - Logout button clicked
+2021-04-19 17:46:03,145 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:46:24,424 - ebanking -INFO - UserName is Provided
+2021-04-19 17:46:24,504 - ebanking -INFO - Password is Provided
+2021-04-19 17:46:29,357 - ebanking -INFO - Providing customer details
+2021-04-19 17:46:40,641 - ebanking -INFO - Test case is Passed
+2021-04-19 17:49:40,037 - ebanking -INFO - Username entered
+2021-04-19 17:49:40,137 - ebanking -INFO - Password entered
+2021-04-19 17:49:44,143 - ebanking -INFO - Submit button clicked
+2021-04-19 17:49:44,168 - ebanking -INFO - Alert accepted
+2021-04-19 17:49:46,467 - ebanking -INFO - Username entered
+2021-04-19 17:49:46,558 - ebanking -INFO - Password entered
+2021-04-19 17:49:47,817 - ebanking -INFO - Submit button clicked
+2021-04-19 17:49:47,851 - ebanking -INFO - Alert accepted
+2021-04-19 17:52:08,300 - ebanking -INFO - Username entered
+2021-04-19 17:52:08,404 - ebanking -INFO - Password entered
+2021-04-19 17:52:10,466 - ebanking -INFO - Submit button clicked
+2021-04-19 17:52:12,680 - ebanking -INFO - Logout button clicked
+2021-04-19 17:52:12,699 - ebanking -INFO - Logout alert accepted
+2021-04-19 17:52:14,540 - ebanking -INFO - Username entered
+2021-04-19 17:52:14,649 - ebanking -INFO - Password entered
+2021-04-19 17:52:17,271 - ebanking -INFO - Submit button clicked
+2021-04-19 17:52:18,214 - ebanking -INFO - Logout button clicked
+2021-04-19 17:52:18,222 - ebanking -INFO - Logout alert accepted
+2021-04-19 18:23:41,463 - ebanking -INFO - URL is opened
+2021-04-19 18:23:41,658 - ebanking -INFO - UserName is Entered
+2021-04-19 18:23:41,746 - ebanking -INFO - Password is Entered
+2021-04-19 18:23:46,317 - ebanking -INFO - Clicked on Submit button
+2021-04-19 18:23:46,330 - ebanking -INFO - Login test Passed
+2021-04-19 18:23:53,222 - ebanking -INFO - UserName is Provided
+2021-04-19 18:23:53,294 - ebanking -INFO - Password is Provided
+2021-04-19 18:24:05,049 - ebanking -INFO - Providing customer details
+2021-04-19 18:24:15,977 - ebanking -INFO - Test case is Passed
+2021-04-19 18:28:25,212 - ebanking -INFO - URL is opened
+2021-04-19 18:28:25,374 - ebanking -INFO - UserName is Entered
+2021-04-19 18:28:25,464 - ebanking -INFO - Password is Entered
+2021-04-19 18:28:30,457 - ebanking -INFO - Clicked on Submit button
+2021-04-19 18:28:30,470 - ebanking -INFO - Login test Passed
+2021-04-19 18:28:42,137 - ebanking -INFO - UserName is Provided
+2021-04-19 18:28:42,206 - ebanking -INFO - Password is Provided
+2021-04-19 18:28:47,858 - ebanking -INFO - Providing customer details
+2021-04-19 18:28:58,747 - ebanking -INFO - Test case is Passed
+2021-04-22 10:45:08,151 - ebanking -INFO - URL is opened
+2021-04-22 10:45:08,283 - ebanking -INFO - UserName is Entered
+2021-04-22 10:45:08,352 - ebanking -INFO - Password is Entered
+2021-04-22 10:45:09,644 - ebanking -INFO - Clicked on Submit button
+2021-04-22 10:45:09,650 - ebanking -INFO - Login test Passed
+2021-04-22 10:45:14,672 - ebanking -INFO - UserName is Provided
+2021-04-22 10:45:14,725 - ebanking -INFO - Password is Provided
+2021-04-22 10:45:19,826 - ebanking -INFO - Providing customer details
+2021-04-22 10:45:30,806 - ebanking -INFO - Test case is Passed
+2021-04-22 11:02:04,794 - ebanking -INFO - URL is opened
+2021-04-22 11:02:04,912 - ebanking -INFO - UserName is Entered
+2021-04-22 11:02:04,976 - ebanking -INFO - Password is Entered
+2021-04-22 11:02:06,052 - ebanking -INFO - Clicked on Submit button
+2021-04-22 11:02:06,058 - ebanking -INFO - Login test Passed
+2021-04-22 11:02:10,825 - ebanking -INFO - UserName is Provided
+2021-04-22 11:02:10,905 - ebanking -INFO - Password is Provided
+2021-04-22 11:02:16,271 - ebanking -INFO - Providing customer details
+2021-04-22 11:02:26,415 - ebanking -INFO - Test case is Passed
+2021-04-22 15:49:17,306 - ebanking -INFO - URL is opened
+2021-04-22 15:49:17,467 - ebanking -INFO - UserName is Entered
+2021-04-22 15:49:17,552 - ebanking -INFO - Password is Entered
+2021-04-22 15:49:18,827 - ebanking -INFO - Clicked on Submit button
+2021-04-22 15:49:18,840 - ebanking -INFO - Login test Passed
+2021-04-22 15:49:23,576 - ebanking -INFO - UserName is Provided
+2021-04-22 15:49:23,648 - ebanking -INFO - Password is Provided
+2021-04-22 15:49:29,579 - ebanking -INFO - Providing customer details
+2021-04-22 15:49:40,884 - ebanking -INFO - Test case is Passed
+2021-04-22 17:37:56,313 - ebanking -INFO - URL is opened
+2021-04-22 17:37:56,422 - ebanking -INFO - UserName is Entered
+2021-04-22 17:37:56,480 - ebanking -INFO - Password is Entered
+2021-04-22 17:37:57,814 - ebanking -INFO - Clicked on Submit button
+2021-04-22 17:37:57,822 - ebanking -INFO - Login test Passed
+2021-04-22 17:38:02,264 - ebanking -INFO - UserName is Provided
+2021-04-22 17:38:02,323 - ebanking -INFO - Password is Provided
+2021-04-22 17:38:08,529 - ebanking -INFO - Providing customer details
+2021-04-22 17:38:19,542 - ebanking -INFO - Test case is Passed
+2021-04-22 18:04:07,698 - ebanking -INFO - URL is opened
+2021-04-22 18:04:07,798 - ebanking -INFO - UserName is Entered
+2021-04-22 18:04:07,858 - ebanking -INFO - Password is Entered
+2021-04-22 18:04:09,635 - ebanking -INFO - Clicked on Submit button
+2021-04-22 18:04:09,646 - ebanking -INFO - Login test Passed
+2021-04-22 18:04:14,239 - ebanking -INFO - UserName is Provided
+2021-04-22 18:04:14,300 - ebanking -INFO - Password is Provided
+2021-04-22 18:04:19,750 - ebanking -INFO - Providing customer details
+2021-04-22 18:04:29,889 - ebanking -INFO - Test case is Passed
+2021-04-22 18:06:22,825 - ebanking -INFO - URL is opened
+2021-04-22 18:06:22,933 - ebanking -INFO - UserName is Entered
+2021-04-22 18:06:22,992 - ebanking -INFO - Password is Entered
+2021-04-22 18:06:24,120 - ebanking -INFO - Clicked on Submit button
+2021-04-22 18:06:24,129 - ebanking -INFO - Login test Passed
+2021-04-22 18:06:28,377 - ebanking -INFO - UserName is Provided
+2021-04-22 18:06:28,443 - ebanking -INFO - Password is Provided
+2021-04-22 18:06:34,757 - ebanking -INFO - Providing customer details
+2021-04-22 18:06:45,449 - ebanking -INFO - Test case is Passed
+2021-04-22 21:06:50,488 - ebanking -INFO - URL is opened
+2021-04-22 21:06:50,619 - ebanking -INFO - UserName is Entered
+2021-04-22 21:06:50,693 - ebanking -INFO - Password is Entered
+2021-04-22 21:06:51,812 - ebanking -INFO - Clicked on Submit button
+2021-04-22 21:06:51,820 - ebanking -INFO - Login test Passed
+2021-04-22 21:06:58,293 - ebanking -INFO - UserName is Provided
+2021-04-22 21:06:58,371 - ebanking -INFO - Password is Provided
+2021-04-22 21:07:03,330 - ebanking -INFO - Providing customer details
+2021-04-22 21:07:14,945 - ebanking -INFO - Test case is Passed
+2021-04-22 21:11:18,622 - ebanking -INFO - URL is opened
+2021-04-22 21:11:18,772 - ebanking -INFO - UserName is Entered
+2021-04-22 21:11:18,854 - ebanking -INFO - Password is Entered
+2021-04-22 21:11:20,124 - ebanking -INFO - Clicked on Submit button
+2021-04-22 21:11:20,140 - ebanking -INFO - Login test Passed
+2021-04-22 21:11:26,415 - ebanking -INFO - UserName is Provided
+2021-04-22 21:11:26,505 - ebanking -INFO - Password is Provided
+2021-04-22 21:11:34,006 - ebanking -INFO - Providing customer details
+2021-04-22 21:11:44,767 - ebanking -INFO - Test case is Passed
